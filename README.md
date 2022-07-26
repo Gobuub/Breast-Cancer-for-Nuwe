@@ -1,12 +1,12 @@
-# Repte-4-for-Nuwe
+# Repte-4-for-Nuwe: Breast Cancer Detection
 
-Project_name: utilizar nombres que sean facilmente identificables para personas que puedan llegar a tener interés en ese modulo o que estén buscando algo similar.
+    In this case we look for a model to predict the breats cancer.
 
-> Breve descripción del proyecto, más o menos 15 - 20 palabras: 
+
 
 ## Background | Problema a solucionar
 
-Exponer brevemente el problema expuesto (> 20 palabras )
+    
 
 ## Resultados y anlásis 
 
