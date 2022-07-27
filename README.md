@@ -2,7 +2,7 @@
 
     In this case we look for a model to predict the breats cancer.
     
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO9_MwfWPArG6IdpgFJmtw6FVhIp_PtZYyhw&usqp=CAU)
+<p align=”center”> <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO9_MwfWPArG6IdpgFJmtw6FVhIp_PtZYyhw&usqp=CAU'/> </p>
 
 
 ## Background | Problema a solucionar
