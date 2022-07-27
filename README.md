@@ -1,7 +1,8 @@
-# Repte-4-for-Nuwe: Breast Cancer Detection
+# Breast Cancer Detection
 
     In this case we look for a model to predict the breats cancer.
-
+    
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO9_MwfWPArG6IdpgFJmtw6FVhIp_PtZYyhw&usqp=CAU)
 
 
 ## Background | Problema a solucionar
@@ -26,6 +27,8 @@ With a simple plot we can make a classificator.
 For this case i decide to work with several model, i make an stack models architecture, in the base of the model i use boosting and bagging models, and then i use its predictions to train de final model (logistic regression).
 With this architecture i have get and 90% of f1_score with only two features radius_mean and symetry_mean, i use this features based on my background knowledge, i work on healthcare for a 15 years.
 Then using all the features of the dataset and apply the same architecture i have get a 98,81% of f_score, get a 100% of f1_score is unlikely, so with this results i'm very confortable.
+
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwDBEoFKZ2lxkS70Hopc89M1j8Vhik6smOlQ&usqp=CAU)
 
 ## Installation
 
